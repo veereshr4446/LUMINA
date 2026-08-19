@@ -70,4 +70,5 @@ LUMINA is an AI-powered study assistant that helps students learn faster and sma
 
 🌟 Support
 ⭐ Star this repository if you found it helpful!
+
 [![GitHub stars](https://img.shields.io/github/stars/veereshr4446/LUMINA?style=social&label=Star)](https://github.com/veereshr4446/LUMINA)
